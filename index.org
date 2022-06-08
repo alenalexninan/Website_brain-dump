@@ -4,7 +4,7 @@
 #+title: Index
 #+filetags: :REVIEWING:
 #+PROPERTY: ANKI_DECK Default
-Time-stamp: "2022-06-09 04:25:42 aaninan"
+Time-stamp: "2022-06-09 04:29:12 aaninan"
 #+STARTUP: content
 #+STARTUP: indent
 #+STARTUP: align
@@ -19,4 +19,5 @@ Time-stamp: "2022-06-09 04:25:42 aaninan"
 This is my secondary brain dump that I would be putting out in the website. Here I summaries lot of my learning that I have in my primary org-roam database. It helps with [[id:d9658996-4453-469b-b164-3d024cdd79a9][progressive summarization]] before writting up and learning
 
 Layout of brain dump:
-1. Inbox: Contains all items that are still work in progress. The areticle that is captured or generated will all be initially pass through inbox folder.
+1. Parent:
+2. Inbox: Contains all items that are still work in progress. The areticle that is captured or generated will all be initially pass through inbox folder. The articles or items in the folder will be further reviewed and configured before being refiled to parent folder.
