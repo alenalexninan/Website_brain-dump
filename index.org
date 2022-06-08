@@ -4,7 +4,7 @@
 #+title: Index
 #+filetags: :REVIEWING:
 #+PROPERTY: ANKI_DECK Default
-Time-stamp: "2022-06-09 04:21:09 aaninan"
+Time-stamp: "2022-06-09 04:23:31 aaninan"
 #+STARTUP: content
 #+STARTUP: indent
 #+STARTUP: align
@@ -16,4 +16,6 @@ Time-stamp: "2022-06-09 04:21:09 aaninan"
 #+EXPORT_FILE_NAME: Notes
 #+EXCLUDE_TAGS: noexport
 
-This is my secondary brain dump that I would be putting out in the website. Here I summaries lot of my learnings that I have in my primary org-roam database.
+This is my secondary brain dump that I would be putting out in the website. Here I summaries lot of my learning that I have in my primary org-roam database. It helps with [[id:d9658996-4453-469b-b164-3d024cdd79a9][progressive summarization]] before writting up and learning
+
+Layout of braindump:
