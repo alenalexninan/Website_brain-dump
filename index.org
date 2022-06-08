@@ -4,7 +4,7 @@
 #+title: Index
 #+filetags: :REVIEWING:
 #+PROPERTY: ANKI_DECK Default
-Time-stamp: "2022-06-09 04:23:31 aaninan"
+Time-stamp: "2022-06-09 04:23:49 aaninan"
 #+STARTUP: content
 #+STARTUP: indent
 #+STARTUP: align
@@ -18,4 +18,4 @@ Time-stamp: "2022-06-09 04:23:31 aaninan"
 
 This is my secondary brain dump that I would be putting out in the website. Here I summaries lot of my learning that I have in my primary org-roam database. It helps with [[id:d9658996-4453-469b-b164-3d024cdd79a9][progressive summarization]] before writting up and learning
 
-Layout of braindump:
+Layout of brain dump:
